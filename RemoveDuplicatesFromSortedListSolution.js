@@ -20,5 +20,8 @@
         while(fast && current.val == fast.val){
             fast = fast.next;
         }
+
+        current.next = fast;
+        current = fast;
     }
 };
