@@ -35,5 +35,6 @@
 - Loop through the linked list until fast is null.
 - Check if the current node’s value is equal to the fast node’s value.
 - If it is, we skip over the fast node.
+- Otherwise, we set the current node’s next to be the fast node.
 
 */
