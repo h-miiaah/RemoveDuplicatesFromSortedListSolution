@@ -33,5 +33,6 @@
 - Start with the head node.
 - Initialize a fast pointer to the head node.
 - Loop through the linked list until fast is null.
+- Check if the current node’s value is equal to the fast node’s value.
 
 */
