@@ -16,6 +16,6 @@
     var fast;
 
     while(current){
-        
+        fast = current;
     }
 };
