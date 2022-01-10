@@ -36,5 +36,6 @@
 - Check if the current node’s value is equal to the fast node’s value.
 - If it is, we skip over the fast node.
 - Otherwise, we set the current node’s next to be the fast node.
+- Update the current node to be the fast node.
 
 */
