@@ -14,4 +14,8 @@
 
     var current = head;
     var fast;
+
+    while(current){
+        
+    }
 };
