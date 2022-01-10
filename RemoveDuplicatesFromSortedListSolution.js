@@ -31,5 +31,6 @@
 /*
 
 - Start with the head node.
+- Initialize a fast pointer to the head node.
 
 */
