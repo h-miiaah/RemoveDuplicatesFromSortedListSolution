@@ -24,4 +24,6 @@
         current.next = fast;
         current = fast;
     }
+
+    return head;
 };
