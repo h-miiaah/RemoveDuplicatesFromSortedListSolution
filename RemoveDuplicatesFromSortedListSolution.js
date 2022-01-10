@@ -17,5 +17,8 @@
 
     while(current){
         fast = current;
+        while(fast && current.val == fast.val){
+            
+        }
     }
 };
